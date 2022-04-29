@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1044153138972",
+    "project_id": "spare-parts-management",
+    "storage_bucket": "spare-parts-management.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044153138972:android:0f3e3fda22f0d8a7cc04d9",
+        "android_client_info": {
+          "package_name": "com.example.spare_parts_management_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044153138972-b1j4cmbfrg8b8ctmnurbsqtqrqgms359.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.spare_parts_management_system",
+            "certificate_hash": "2c7bfdbd88fe86dcf526b9e74b93ff48b3900184"
+          }
+        },
+        {
+          "client_id": "1044153138972-iap9b0202f16ok3tqf0jjlg789quank3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqzIVV_F7wmsZTagQdboAKBLmj4eoe9Tw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044153138972-iap9b0202f16ok3tqf0jjlg789quank3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
